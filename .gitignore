@@ -1,0 +1,5 @@
+/target
+tokens.txt
+bots.txt
+*.session
+.env
